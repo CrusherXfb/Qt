@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/ico">
+        <file>notes.ico</file>
+        <file>speaker.ico</file>
+    </qresource>
+</RCC>
